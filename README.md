@@ -6,7 +6,7 @@ jass parser by luajit
 Parsing 300000 lines of 27mb jass syntax tree takes only 2 seconds
 
 
-bin\luajit.exe -jon -O3 src\main.lua
+run.bat 
 
 common.j pass
 
